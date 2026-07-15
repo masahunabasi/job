@@ -3,13 +3,13 @@
         {
             "id": 1,
             "name": "株式会社A",
-            "status": "書類審査中",
+            "status": "内定",
             "memo": ""
         },
         {
             "id": 2,
             "name": "株式会社B",
-            "status": "書類審査中",
+            "status": "選考終了",
             "memo": "次回は2次面接"
         },
         {
@@ -60,6 +60,13 @@
             "company_id": 1,
             "task_name": "エントリーシート提出",
             "deadline": "2026-07-20",
+            "is_completed": false
+        },
+        {
+            "id": 7,
+            "company_id": 1,
+            "task_name": "エントリーシート提出",
+            "deadline": "2026-07-31",
             "is_completed": false
         }
     ],
