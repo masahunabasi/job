@@ -3,14 +3,8 @@
         {
             "id": 1,
             "name": "日本大学株式会社",
-            "status": "書類審査中",
-            "memo": "特にない"
-        },
-        {
-            "id": 2,
-            "name": "日本大学株式会社２",
-            "status": "内定",
-            "memo": "２社目"
+            "status": "面接待ち",
+            "memo": "特になし"
         }
     ],
     "tasks": [
@@ -20,13 +14,6 @@
             "task_name": "エントリーシート提出",
             "deadline": "2026-07-22",
             "is_completed": false
-        },
-        {
-            "id": 2,
-            "company_id": 2,
-            "task_name": "エントリーシート提出",
-            "deadline": "2026-07-19",
-            "is_completed": false
         }
     ],
     "schedules": [
@@ -34,14 +21,7 @@
             "id": 1,
             "company_id": 1,
             "event_name": "一次面接",
-            "event_datetime": "2026-07-22T10:00",
-            "location": "日大理工学部"
-        },
-        {
-            "id": 2,
-            "company_id": 2,
-            "event_name": "インターン",
-            "event_datetime": "2026-07-19T20:13",
+            "event_datetime": "2026-07-29T10:00",
             "location": "日大理工学部"
         }
     ]
